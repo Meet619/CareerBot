@@ -1,0 +1,32 @@
+
+            .fixed-panel {
+                min-height: 400px;
+                max-height: 400px;
+                overflow-y: scroll;
+
+            }
+            .media-list {
+                overflow: auto;
+        color:white;
+        background-color:blue;
+            }
+
+            .heading{
+                    font-family: 2px solid black;
+                    font-size: 100px;
+            }
+            .paneldesign{
+                background-color:;
+                text-align:center;
+            }
+            .media-body{
+            color:white;
+                font-family: monospace;
+                font-size: 17px;
+                text-align: left;
+                line-height: 30px;
+                background-color:blue;
+            }
+            .media-user {
+                background-color: red;
+            }
