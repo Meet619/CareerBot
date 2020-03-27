@@ -12,7 +12,7 @@ $(function() {
                 $("#data").append('<tr><td></td><td><div class="content bot"> ' + message + '</td><td valign="top"><img src="./static/assets/user.png" width="50px" height="50px" style="border-radius: 50px;"></td></tr>');
                 $.ajax({
                     type: "POST",
-                    url: "https://careerbot.herokuapp.com/ask",
+                    url: "/ask",
                     data: $(this).serialize(),
                     success: function(response) {
 
