@@ -30,7 +30,7 @@ $(function() {
                         DivElmnt.scrollTop=DivElmnt.scrollHeight;
                     },
                     error: function(error) {
-                        console.log(error);
+                         console.log(JSON.stringify(error));
                     }
                 });
 
