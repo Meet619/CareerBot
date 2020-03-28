@@ -42,7 +42,7 @@ def ask():
 
 	while True:
 	    if message != "":
-		bot_response =   str(english_bot.get_response(message))
+		bot_response = str(english_bot.get_response(message))
 	        print (bot_response)
 	        return jsonify({'status':'OK','answer':bot_response})
 # 	    if message == "":
