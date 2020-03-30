@@ -47,7 +47,7 @@ def ask():
 	    else:
 	        bot_response =   str(english_bot.get_response(message))
 	        print (bot_response)
-	        return jsonify({'status':'OK','answer':bot_response})
+	        return jsonify({'status':200, 'answer':bot_response})
 
 
 if __name__ == "__main__":
