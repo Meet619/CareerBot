@@ -52,4 +52,5 @@ def ask():
 
 if __name__ == "__main__":
     app.debug = True
+    app.config['PROPAGATE_EXCEPTIONS'] = True
     app.run()
