@@ -34,7 +34,7 @@ trainer.train(conv1)
 def home1():
     return render_template("index1.html")
 
-@app.route("/ask", methods=['POST'])
+@app.route("/ask", methods=['GET','POST'])
 def ask():
 	message = (request.form['messageText'])
 	print(request.form['messageText']);
