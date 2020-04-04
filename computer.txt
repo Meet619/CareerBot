@@ -13,10 +13,41 @@ Do you want to help me to Guide you to select your career?
 hello 
 Do you want to help me to Guide you to select your career?
 yes
-what are your field of interest?
-yes definitely.
-what are your field of interest?
-yes
-what are your field of interest?
-yes
-what are your field of interest?
+what are your field of interest? It can be Maths or Physics for Engineering Field.
+Maths
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Courses for Computer Engineering:
+Diploma Course :- Eligibility Criteria :- Class 10 , Duration: 3 years. BTech/BE Course , Eligibility Criteria: 10+2 with PCM  (Physics,Chemistry and Mathematics)
+
+            Duration: 4 years
+
+ME/MTech Course
+            Eligibility Criteria: BTech/BE Course
+
+            Duration: 2 years
