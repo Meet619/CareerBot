@@ -25,10 +25,9 @@ english_bot = ChatBot("Career",storage_adapter='chatterbot.storage.SQLStorageAda
 trainer = ListTrainer(english_bot)
 conv = open('Meet.txt','r').readlines()
 conv1 = open('greeting.txt','r').readlines();
-computer = open('computer.txt','r').readlines();
 trainer.train(conv)
 trainer.train(conv1)
-trainer.train(computer)
+
 
 
 
