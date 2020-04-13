@@ -15,4 +15,4 @@ python-dateutil>=2.7,<2.8
 
 spacy>=2.1,<2.2
 
-PyYAML==3.12
+PyYAML==5.1
