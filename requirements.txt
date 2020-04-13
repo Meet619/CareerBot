@@ -4,7 +4,8 @@
 Flask==1.0
 chatterbot>=0.7.1
 chatterbot-corpus>=1.2.0
-SQLAlchemy>=1.2
+#SQLAlchemy>=1.2
+SQLAlchemy==1.2
 gunicorn==20.0.4
 
 mathparse>=0.1,<0.2
@@ -14,4 +15,4 @@ python-dateutil>=2.7,<2.8
 
 spacy>=2.1,<2.2
 
-pytz
+PyYAML==3.12
